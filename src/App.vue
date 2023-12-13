@@ -1,4 +1,4 @@
-<!-- App.vue -->
+
 <template>
   <div>
     <h1>Date App</h1>
